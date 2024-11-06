@@ -9,6 +9,7 @@ class Second
 
       System.out.println(a);
       System.out.println("The a value is:"+a);
+      System.out.println("The Given name is:"+name);
       System.out.println("The Given value is:"+ft);
       }
 }
