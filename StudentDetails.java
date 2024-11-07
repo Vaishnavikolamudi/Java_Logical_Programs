@@ -23,7 +23,7 @@ class StudentDetails
    
    tot=m+p+c;
    savg=tot/3;
-   System.out.println("The total is:+tot");
+   System.out.println("The total is:"+tot);
    System.out.println("The average is:"+savg);
    }
 }
